@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**Sipanissa/sipanissa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Profil
 
-Here are some ideas to get you started:
+![Profilbild](url-zum-bild.jpg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Über mich
+
+Hier kannst du einige Informationen über dich schreiben. Du kannst deine Interessen, Erfahrungen und was auch immer du möchtest teilen!
+
+### Kontakt
+
+- **E-Mail:** deine-email@example.com
+- **LinkedIn:** [LinkedIn-Profil](https://www.linkedin.com/in/deinprofil)
+- **Twitter:** [@deinhandle](https://twitter.com/deinhandle)
+
